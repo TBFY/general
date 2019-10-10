@@ -6,7 +6,7 @@ Before starting to edit the README file, we must first register the project in s
 1. Go to [travis-ci.org](https://travis-ci.org) and sign up with your Github account.
 1. Accept the Authorization of Travis CI. You’ll be redirected to GitHub.
 1. Click the green Activate button, and select the repository (i.e. the new github project) you want to use with Travis CI.
-1. Add a `.travis.yml` file to your repository to tell Travis CI what to do. The following example specifies a Java project that should be built with Java 8.x.
+1. Add a `.travis.yml` file to your repository to tell Travis CI what to do. The following example specifies a Java project that should be built with Java 8.x. Some templates are available [here](https://github.com/TBFY/general/tree/master/templates)
 ```yml
 language: java
 jdk:
