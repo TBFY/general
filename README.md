@@ -15,7 +15,7 @@ Take a look at these guidelines:
 * [readme-and-CI](https://github.com/TBFY/general/blob/master/guides/readme-and-ci.md)
 * [how-to-contribute](https://github.com/TBFY/general/blob/master/guides/how-to-contribute.md)
 
-## Last Stable Release [![](https://jitpack.io/v/TBFY/general.svg)](https://jitpack.io/#TBFY/general)
+## Lastest Stable Release [![](https://jitpack.io/v/TBFY/general.svg)](https://jitpack.io/#TBFY/general)
 Details for downloading and using the latest stable version available
 
 ## Contributing
